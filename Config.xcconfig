@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  SwiftCalculator
+//
+//  Created by nasrin niazi on 2023-02-23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+API_KEY = "coinranking90f560cb1add7950fd3c6a059b7b54b57ca8e38159d2e8ec"

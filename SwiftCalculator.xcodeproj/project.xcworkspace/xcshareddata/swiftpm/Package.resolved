@@ -1,0 +1,104 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "78424be314842833c04bc3bef5b72e85fff99204",
+        "version" : "5.6.4"
+      }
+    },
+    {
+      "identity" : "bitcoinconvertor_ui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/BitcoinConvertor_UI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "eda72b3b83a8a131443583340bfee4e58a39cb9c"
+      }
+    },
+    {
+      "identity" : "calculator_ui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/Calculator_UI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ed2436ead7443b1130094e6860499b06c5307408"
+      }
+    },
+    {
+      "identity" : "calculatorcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/CalculatorCore.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "75797da17e67c6782a13b3135c8ee50e4ef822a3"
+      }
+    },
+    {
+      "identity" : "convertorcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/ConvertorCore.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ac2e85e9be3a721ba02f78da5f032bc71b8cf13c"
+      }
+    },
+    {
+      "identity" : "coordinator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/Coordinator.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "837f2122c8c4e36e63d8dfbd03520726ae393fc0"
+      }
+    },
+    {
+      "identity" : "featuretoggling",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/FeatureToggling.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "234965e9a4ce609a9a3513777ecf31a416c676f7"
+      }
+    },
+    {
+      "identity" : "logmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/LogManager.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "32ceeb0caf823a3de5de3e6c25a775eefaeed548"
+      }
+    },
+    {
+      "identity" : "network",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/Network.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9ccb612c3baff278be7e5d0f10f3e171867d79f2"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
+        "version" : "6.5.0"
+      }
+    },
+    {
+      "identity" : "theme",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nasriniazi/Theme.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "eddcbca45075d25c8d1a3d6a0e4a99394bb55459"
+      }
+    }
+  ],
+  "version" : 2
+}

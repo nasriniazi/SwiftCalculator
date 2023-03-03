@@ -1,0 +1,29 @@
+
+[{
+   "feature": "+",
+   "enabled": true
+},
+{
+   "feature": "-",
+   "enabled": true
+},{
+   "feature": "*",
+   "enabled": true
+},
+{
+   "feature": "/",
+   "enabled": true
+},
+{
+   "feature": "Sin",
+   "enabled": true
+},
+{
+   "feature": "Cos",
+   "enabled": true
+},
+{
+   "feature": "Convertor",
+   "enabled": true
+}
+]
